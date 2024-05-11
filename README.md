@@ -70,7 +70,7 @@ The analysis includes various visualizations to present the findings effectively
 ## Getting Started
 To run the analysis, follow these steps:
 
-1. Clone the repository: git clone [https://github.com/your-repo.git](https://github.com/Antidote-cyber/Nigeria-Agriculatural-Export-Analysis.git)
+1. Clone the repository: git clone [https://github.com/Antidote-cyber/Nigeria-Agriculatural-Export-Analysis.git]
 2. Place the nig_agric_exp dataset in the data/ directory.
 3. Run the Jupyter Notebook or Python script that contains the analysis code.
 
